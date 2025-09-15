@@ -1,0 +1,15 @@
+langchain-community
+langchain-groq
+chromadb
+
+streamlit
+beautifulsoup4
+selenium
+watchdog
+langchain-ollama
+webdriver_manager
+
+sqlalchemy 
+bcrypt
+
+
